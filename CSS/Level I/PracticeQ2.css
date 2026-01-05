@@ -1,0 +1,12 @@
+h1{
+    font-family: "League Spartan";
+    color: #ffa511;
+    text-align: center;
+    text-decoration: double underline;
+    text-decoration-color: teal;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
